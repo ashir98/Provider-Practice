@@ -1,0 +1,5 @@
+class FavouriteProvider{
+
+  List favourites = [];
+  
+}
